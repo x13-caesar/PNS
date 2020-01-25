@@ -37,10 +37,10 @@ def get_car_boxes(boxes, class_ids):
     return np.array(car_boxes)
 
 # Twilio config
-twilio_account_sid = 'AC0981709b4ff509d9a7436d3676d73847'
-twilio_auth_token = 'baa76e36e5723a96b47e2bc10e9e6bf9'
-twilio_phone_number = '+12563049872'
-destination_phone_number = '+15738087763'
+twilio_account_sid = ''
+twilio_auth_token = ''
+twilio_phone_number = 'your twilio number'
+destination_phone_number = 'the number you want to receive the message'
 client = Client(twilio_account_sid, twilio_auth_token)
 
 ROOT_DIR = Path("./")

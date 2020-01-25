@@ -22,6 +22,6 @@ If any more questions, please contact following address:
 - Qiangwen Xu: qxu47@fordham.edu  
 - Mengyao Sun: msun54@fordham.edu  
 - Bailing Fu: bfu6@fordham.edu   
-**Credit to our Professor, Dr.Yijun Zhao**
+**Credit to our Professor, [Dr.Yijun Zhao](https://www.fordham.edu/info/25112/cis_faculty_and_administration/10363/yijun_zhao)**
 
 
